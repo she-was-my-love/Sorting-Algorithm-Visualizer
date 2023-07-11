@@ -8,7 +8,7 @@ This is a sorting visualizer for:
 5. Merge sort
 6. Heap sort.
 
-Deployed at: 
+
 
 
 
