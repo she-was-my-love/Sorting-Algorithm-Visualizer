@@ -8,6 +8,8 @@ This is a sorting visualizer for:
 5. Merge sort
 6. Heap sort.
 
+Deployed @ https://she-was-my-love.github.io/Sorting-Algorithm-Visualizer/
+
 
 
 
